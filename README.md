@@ -1,7 +1,7 @@
 <h1 align="center">HarmoView: Harmonizing Multi-View Constraints<br>for Identity-Consistent Video Generation</h1>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2606.10839"><img src="https://img.shields.io/badge/arXiv-2606.10839-b31b1b.svg" alt="arXiv"></a>
   <a href="https://conallwang.github.io/HarmoView_Pages/"><img src="https://img.shields.io/badge/Project-Page-blue.svg" alt="Project Page"></a>
 </p>
 
@@ -37,7 +37,7 @@
 
 ## 📣 News
 
-- **[2026-06-09]** We released the paper on [arXiv](https://arxiv.org/abs/XXXX.XXXXX) and the [project page](https://conallwang.github.io/HarmoView_Pages/).
+- **[2026-06-09]** We released the paper on [arXiv](https://arxiv.org/abs/2606.10839) and the [project page](https://conallwang.github.io/HarmoView_Pages/).
 - **[2026-06-09]** Inference code and pre-trained weights are coming soon.
 
 ## ✅ TODO
@@ -58,7 +58,7 @@ If you find HarmoView useful for your research, please consider citing:
   author  = {Wang, Cong and Yu, Zhentao and Wang, Hongmei and Liang, Weicong and
              Zhou, Zixiang and Yang, Zilin and Ou, Jiarong and Chen, Rui and
              Zhou, Yuan and Lu, Qinglin},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  journal = {arXiv preprint arXiv:2606.10839},
   year    = {2026}
 }
 ```
